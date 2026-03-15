@@ -14,6 +14,7 @@ The model is trained using a TF-IDF text representation and a Linear Support Vec
 * On-device spam classification
 * Lightweight machine learning model
 * No internet connection required for prediction
+* No user data or notification logs stored
 * Efficient TF-IDF feature extraction
 * Fast Linear SVM based classification
 
